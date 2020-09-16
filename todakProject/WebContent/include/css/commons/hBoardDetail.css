@@ -1,0 +1,34 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+.board_div {
+	width:80%;
+	min-height:600px;
+	margin:0 auto;
+	
+}
+
+.detail_table{
+
+	width:800px;
+	height:auto;
+	border-top:2px solid #000000;
+	
+	border-bottom:2px solid #000000;
+	table-layout:fixed;
+}
+
+.detail_table td {
+	border-bottom:1px solid #000000;
+	padding:10px;
+
+}
+
+
+
+.context-container {
+	/*width:1000px;
+	border : 1px solid red;*/
+	margin:3px;
+	margin:0 auto;
+	
+}

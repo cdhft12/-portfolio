@@ -1,0 +1,63 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+.context-container {
+	/*width:1000px;
+	border : 1px solid red;*/
+	margin:3px;
+	margin:0 auto;
+	
+}
+
+.table_size {
+	min-height:500px;
+	width:90%;
+	margin:0 auto;
+}
+
+.table {
+	padding:0 15px 0 15px;
+	width:80%;
+	/*width:900px;*/
+	float:left;
+	height:auto;
+	border-top:3px solid #ddd;
+	border-bottom:3px solid #ddd;
+	margin:0 auto;
+	text-align:center;
+}
+
+.table th {
+	padding:9px;
+	text-align:center;
+}
+
+.StatusSearch {
+	padding:5px;
+	width:90%;
+	margin:0 auto;
+	/*width:940px;*/
+
+}
+
+.StatusSearch td {
+	padding:5px;
+}
+.button {
+	font-family: 'Noto Sans KR', sans-serif;
+	background-color: rgb(29,79,137);
+	border: none;
+	color:#fff;
+	padding: 5px 8px 5px 8px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 10px;
+	margin: 2px;
+	cursor: pointer;
+}
+
+.button:hover {
+	background-color: #f8585b;
+	<!--transition:.3s;-->
+}
+
