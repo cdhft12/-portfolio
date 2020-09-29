@@ -1,0 +1,7 @@
+팀프로젝트중 직접 작성한 코드 위치입니다.
+
+src/java142/todak/human
+
+src/query/human.xml
+
+WebContent/WEB-INF/views/human
